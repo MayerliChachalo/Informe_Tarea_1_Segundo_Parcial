@@ -4,8 +4,12 @@ Integrantes: Chachalo Mayerli, Mensias Adrian, Robalino Johanna, Vallejo Keily
 
 ## 1. OBJETIVOS 
 
+**Objetivo General**
+
 Aprender, conceptos fundamentales sobre analisis y aplicaciones de circuitos en serie - paralelo, ponerlos en práctica aplicando los conocimientos aprendidos 
-durante clase d
+durante clase.
+
+**Objetivos específicos**
 
 ## 2. MARCO TEÓRICO 
 
