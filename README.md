@@ -13,6 +13,8 @@ durante clase d
 
 ![image](https://user-images.githubusercontent.com/75383758/125569448-e7e31adb-fb9c-4bca-aefa-8e417805f804.png)
 
+![image](https://user-images.githubusercontent.com/75383758/125571414-b35df12b-1062-4fe3-9fa1-82e367fd3c2b.png)
+
 ## 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
 ### CAPITULO 7 
