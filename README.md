@@ -12,7 +12,68 @@ durante clase d
 
 ## 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
-CAPITULO 8
+### CAPITULO 7 
+
+7.1 La red en paralelo 
+1. Para las redes de la figura 7-46 Determine cuales son resistores y ramas están en serie y cuáles en paralelo. Escribo una expresión total, Rt 
+
+![image](https://user-images.githubusercontent.com/85126275/125564142-626b65d3-201a-4780-ac57-ebd8d60a80d2.png)
+
+![image](https://user-images.githubusercontent.com/85126275/125564196-2ef34f7d-0e22-42ef-865f-dec68627d297.png)
+
+2. Para cada red de la figura 7-47 escriba una expresión para la resistencia total, R_T
+ 
+![image](https://user-images.githubusercontent.com/85126275/125564217-cbb15ae7-7ad9-435f-aca9-49be606dfa36.png)
+
+![image](https://user-images.githubusercontent.com/85126275/125564252-296635ae-c2c1-4606-9a51-089739e417a7.png)
+ 
+3. Escriba una expresión para RT1 y RT2 para las redes de la figura 7-48.
+ 
+![image](https://user-images.githubusercontent.com/85126275/125565461-bb5da11c-34d4-4a9c-8832-e1c85b0d46c6.png)
+
+![image](https://user-images.githubusercontent.com/85126275/125565489-d96aae75-dcc3-4955-a8d4-77850f60f21b.png)
+
+4. Escriba una expresión para Rt1 y RT2 para las redes de la figura 7-49
+
+![image](https://user-images.githubusercontent.com/85126275/125565756-f4e7deb7-00fc-4298-80c6-d59c1990a5d3.png)
+
+![image](https://user-images.githubusercontent.com/85126275/125565976-402bdc3a-0c72-49ab-861d-aab2ee7b6f24.png)
+
+5. Las redes de resistores tienen las resistencias totales que se muestran a continuación. Dibuje un circuito que corresponde a cada expresión.
+
+![image](https://user-images.githubusercontent.com/85126275/125566310-34a26db9-acb1-4324-b614-30b94a561d09.png)
+
+![image](https://user-images.githubusercontent.com/85126275/125566488-38368925-1fd0-4cff-84bd-6a387464baa2.png)
+
+7-2 Análisis de circuitos en seie-paralelo
+
+7. Determine la resistencia total para cada red de la figura 7-50
+
+![image](https://user-images.githubusercontent.com/85126275/125566807-97242f18-8c6b-4f83-aa24-d3323532a2b2.png)
+
+![image](https://user-images.githubusercontent.com/85126275/125567084-29f8ece3-1c4b-4920-a247-0cfd4d1368df.png)
+
+9. calcule la resistencia Rab y Rcd en el circuito de la figura 7-52
+
+![image](https://user-images.githubusercontent.com/85126275/125567114-5df74a6c-df4f-4878-a42f-489dc965ac54.png)
+
+![image](https://user-images.githubusercontent.com/85126275/125567142-10b06830-ff44-4a16-9fab-43d9bb94263f.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### CAPITULO 8
+
 8-1 Fuente de corriente constante
 1.	Encuentre el voltaje VS para el circuito de la figura 8-64.
 
