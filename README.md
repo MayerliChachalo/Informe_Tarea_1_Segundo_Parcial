@@ -549,5 +549,6 @@ corriente I1.
 
  Un circuito eléctrico mixto (combinación de ambos circuito) se conoce por las variaciones de tanto su intensidad de corriente como su respectivo voltaje, presentando las características de cada uno de sus componentes ya sea en paralelo o en serie.
 
-
 ## 6. BIBLIOGRAFÍA
+
+Robbins, A., & Miller, W. (2010). Análisis de circuitos eléctricos. Teoría y práctica [recurso electrónico]. Cengage Learning Editores, S.A. de C.V.
