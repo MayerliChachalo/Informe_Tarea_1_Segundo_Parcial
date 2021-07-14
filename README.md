@@ -11,6 +11,10 @@ durante clase.
 
 **Objetivos específicos**
 
+Ilustrar en cada uno de los circuitos, un esquema aparte para de esta manera poder simplificar el problema planteado.
+
+Interpretar cada una de las fórmulas propuestas como las leyes de Kirchhoff o la ley de divisores de voltaje, para encontrar varios métodos y caminos a resolver los circuitos simples o complejos. 
+
 ## 2. MARCO TEÓRICO 
 
 ![image](https://user-images.githubusercontent.com/85126275/125621407-7af59e21-28c2-44a6-a770-637370385ebf.png)
