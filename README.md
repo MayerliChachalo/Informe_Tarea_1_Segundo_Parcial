@@ -9,7 +9,9 @@ durante clase d
 
 ## 2. MARCO TEÓRICO 
 
+![image](https://user-images.githubusercontent.com/85126275/125621407-7af59e21-28c2-44a6-a770-637370385ebf.png)
 **Capítulo 8**
+
 
 ![image](https://user-images.githubusercontent.com/75383758/125569448-e7e31adb-fb9c-4bca-aefa-8e417805f804.png)
 
