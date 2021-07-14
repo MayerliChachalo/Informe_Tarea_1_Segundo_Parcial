@@ -9,6 +9,9 @@ durante clase d
 
 ## 2. MARCO TEÓRICO 
 
+**Capítulo 8**
+
+![image](https://user-images.githubusercontent.com/75383758/125569329-1449a14c-582b-433a-a96b-70ba751848a2.png)
 
 ## 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
