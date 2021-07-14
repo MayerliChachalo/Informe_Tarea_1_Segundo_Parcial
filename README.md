@@ -23,7 +23,9 @@ Ejercicios Capítulo 7
 12. Vea el circuito de la ﬁgura 7-55. Encuentre las siguientes cantidades:
 
   a. RT (resistencia equivalente “vista” por la fuente de voltaje)
+  
   b. IT, I1, I2, I3, I4
+  
   c. Vab, Vbc, Vcd.
 
 ![image](https://user-images.githubusercontent.com/75383758/125552426-bc7d13ab-014e-469d-90b0-db4c1009e5e8.png)
@@ -31,7 +33,9 @@ Ejercicios Capítulo 7
 13. Vea el circuito de la ﬁgura 7-56.
 
   a. Encuentre las corrientes I1, I2, I3, I4, I5 e I6.
+  
   b. Encuentre los voltajes Vab y Vcd.
+  
   c. Veriﬁque que la potencia suministrada al circuito es igual a la suma de las potencias disipadas por los resistores.
 
 ![image](https://user-images.githubusercontent.com/75383758/125552450-06c5fb10-6129-4dd8-a75b-117f8974ca04.png)
@@ -43,7 +47,9 @@ Ejercicios Capítulo 7
 14. Vea el circuito de la ﬁgura 7-57:
 
   a. Encuentre las corrientes I1, I2, I3, I4 e I5.
+  
   b. Encuentre los voltajes Vab y Vbc.
+  
   c. Veriﬁque que la potencia suministrada al circuito es igual a la suma de las potencias disipadas por los resistores.
 
 ![image](https://user-images.githubusercontent.com/75383758/125552546-1ff8a552-30e2-407e-894b-32fc76036464.png)
@@ -51,7 +57,9 @@ Ejercicios Capítulo 7
 15. Vea los circuitos de la ﬁgura 7-58:
 
   a. Encuentre las corrientes indicadas.
+  
   b. Encuentre el voltaje Vab. 
+  
   c. Veriﬁque que la potencia suministrada al circuito es igual a la suma de las potencias disipadas por los resistores.
 
 ![image](https://user-images.githubusercontent.com/75383758/125552586-65afa521-2826-4666-9f0c-56874f5aec7b.png)
@@ -63,7 +71,9 @@ Ejercicios Capítulo 7
 ![image](https://user-images.githubusercontent.com/75383758/125552629-88687f45-680a-4b92-8cc2-036cc2cffef2.png)
 
 16. Vea el circuito de la ﬁgura 7-59:
+
   a. Encuentre las corrientes I1, I2 e I3 cuando Rx = 0 Ω y cuando Rx = 5 k Ω.
+  
   b. Calcule el voltaje Vab cuando Rx = 0 Ω y cuando Rx = 5 k Ω.
 
 ![image](https://user-images.githubusercontent.com/75383758/125552660-4549d0c1-72f7-492d-b994-ec0166fee4c6.png)
@@ -75,7 +85,9 @@ Ejercicios Capítulo 7
 ![image](https://user-images.githubusercontent.com/75383758/125552710-7c60b63b-2b0b-462a-a3d1-d04d38ff1ee7.png)
 
 18. Vea el circuito de la ﬁgura 7-61:
+
   a. Determine la potencia disipada por el diodo zener de 6.2 V. Si el diodo zener está especiﬁcado para una potencia máxima de 1/4 W, ¿es probable que se destruya?
+  
   b. Repita el inciso a. si la resistencia R1 se duplica.
 
 ![image](https://user-images.githubusercontent.com/75383758/125552736-b3de1fa9-4b55-4695-971f-42e4ad55c94d.png)
