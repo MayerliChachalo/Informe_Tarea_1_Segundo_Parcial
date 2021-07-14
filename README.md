@@ -477,4 +477,9 @@ corriente I1.
 
 ## 5. CONCLUCIONES 
 
+* Podemos acotar que una de las leyes más fundamentales en los circuitos como lo son las layes de Kirchhoff se siguen poniendo en práctica en cada uno de estos capítulos estudiados ayudando así a resolver desde los circuitos más simples hasta los más complejos, ya sean en serie o paralelos.
+* Está claro que en cada circuito a resolver una de las estrategias para simplificar el problema es, volver a dibujar los circuitos siempre que la solución a un problema
+aparente no ser inmediata.
+
+
 ## 6. BIBLIOGRAFÍA
