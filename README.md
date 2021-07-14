@@ -538,12 +538,9 @@ corriente I1.
 
 ![image](https://user-images.githubusercontent.com/84789076/125556403-041fb04f-0390-4faa-aa21-d73705cf9ad1.png)
 
-
-
-
-
-
 ## 4. VIDEO 
+
+https://youtu.be/Z_8DmbnmtOs
 
 ## 5. CONCLUCIONES 
 
