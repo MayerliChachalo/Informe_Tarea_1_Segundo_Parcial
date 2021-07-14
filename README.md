@@ -11,7 +11,7 @@ durante clase d
 
 **Capítulo 8**
 
-![image](https://user-images.githubusercontent.com/75383758/125569329-1449a14c-582b-433a-a96b-70ba751848a2.png)
+![image](https://user-images.githubusercontent.com/75383758/125569448-e7e31adb-fb9c-4bca-aefa-8e417805f804.png)
 
 ## 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
